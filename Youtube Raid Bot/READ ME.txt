@@ -1,0 +1,8 @@
+Etape pour faire marcher le bot :
+
+1.Démarrer Youtube Live Bot.exe
+2.Rentré l'id du live (la partie de l'url qui est après watch?v= )
+3.Faites entrée
+4.Ecrivé proxies.txt
+5.Entrée
+6.Regarder le viewers monté
